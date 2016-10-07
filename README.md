@@ -27,3 +27,8 @@ support is 0.01 and minimum confidence is 0.9. It then calculates the
 minimum confidence value required so that there will be more than 10
 association rules.
 
+Question 6 plots the minimum support = 0.01 against the minimum 
+confidence = 0.5 for association rules with "whole milk" on the right
+hand side.
+
+Question 7 calculates the three rules with the highest lift.
